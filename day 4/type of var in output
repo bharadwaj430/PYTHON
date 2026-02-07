@@ -1,0 +1,9 @@
+#type of variable in output
+x = 5
+y = "mohan"
+z = 23.13
+a = True
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))
