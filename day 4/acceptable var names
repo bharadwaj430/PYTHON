@@ -1,0 +1,13 @@
+#acceptable variable names 
+#gaps are not acceptable in middle of variable name
+myvar = "bharat"
+my_var = "bharat"
+_my_var = "bharat"
+myVar = "bharat"
+MYVAR = "bharat"
+myvar2 = "bharat"
+myVariableName = "bharat" #camelcase
+
+MyVariableName = "bharat" #pascal case
+
+my_variable_name = "bharat" #snakecase
