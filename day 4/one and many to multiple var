@@ -1,0 +1,11 @@
+#many values to multiple variables 
+x, y, z = "car", "Bike", "cycle"
+print(x)
+print(y)
+print(z)
+
+#one value to multiple variables 
+x = y = z = "AI"
+print(x)
+print(y)
+print(z)
