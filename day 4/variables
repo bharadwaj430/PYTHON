@@ -1,0 +1,5 @@
+#python variables
+x= 2392 #x is type of int
+y= "bharadwaj" #y is type of string 
+print(x)
+print(y)
