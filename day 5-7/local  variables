@@ -1,8 +1,18 @@
+#local variable
 x = "easy to learn"
-
 def myfunc():
   x = "  easy even though DSA PROBLEMS ARE complex to solve"
   print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
+#global variable
+x = "awesome"
+
+def myfunc():
+  global x
+  x = "fantastic"
 
 myfunc()
 
