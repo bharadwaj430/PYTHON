@@ -1,0 +1,14 @@
+#type 1
+x = "Python"
+y = "is"
+z = "interesting"
+print(x, y, z)
+#type 2
+x = "Python "
+y = "is "
+z = "interesting"
+print(x + y + z)
+#type 3 cannot use operation between different data types
+x = 23
+y= 9
+print(x + y)
