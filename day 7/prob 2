@@ -1,0 +1,6 @@
+#singleline comment
+print("python is powerful")
+#multiline comment
+"""
+python is easy to code
+"""
