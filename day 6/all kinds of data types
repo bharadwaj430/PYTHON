@@ -1,4 +1,4 @@
-#all kinds of dat types
+#all kinds of data types
 #1.STRING
 x = "Hello World"
 print(x)

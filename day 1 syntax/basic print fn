@@ -1,0 +1,6 @@
+print("welcome to python programming")
+print("this is bharadwaj")
+y=("my age is 19")
+x= "pursuing bachelor of technology in information technology"
+print(x)
+print(y)
