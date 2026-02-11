@@ -1,9 +1,12 @@
-student_name = "chaitanya"
-student_age = 19
-college_name = "BEC"
-print(student_name)
-print(student_age)
-print(college_name)
+student_name = "chaitanya" #printing the name of the student
+student_age = 19 #printing the age of the student
+college_name = "BEC" #printing the name of the college
+print(student_name) #printing the name of the student
+print(student_age) #printing the age of the student
+print(college_name) #printing the name of the college
+"""
+creating variables and performing multiplication operation
+"""
 X=5
 Y=23
-print(Y-X)
+print(X+Y+X*Y) #performing multiplication operation and printing the result
