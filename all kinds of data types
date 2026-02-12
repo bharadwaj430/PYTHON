@@ -1,0 +1,72 @@
+#all kinds of data types
+#1.STRING
+x = "Hello World"
+print(x)
+print(type(x)) 
+
+#2.INTEGER
+x = 20
+print(x)
+print(type(x)) 
+
+#3.FLOAT
+x = 20.5
+print(x)
+print(type(x)) 
+
+#4.COMPLEX
+x = 1j
+print(x)
+print(type(x))
+ 
+#5.LIST
+x = ["apple", "banana", "cherry"]
+print(x)
+print(type(x))
+
+#6.list
+x = ["apple", "banana", "cherry"]
+print(x)
+print(type(x))
+
+#7.tuple
+x = ("apple", "banana", "cherry")
+print(x)
+print(type(x))
+
+#range
+x = range(6)
+print(x)
+print(type(x))
+
+x = {"name" : "John", "age" : 36}	#dict	
+print(x)
+print(type(x))
+
+x = {"apple", "banana", "cherry"}	#set	
+print(x)
+print(type(x))
+
+x = frozenset({"apple", "banana", "cherry"})	#frozenset
+print(x)
+print(type(x))
+
+x = True	#bool	
+print(x)
+print(type(x))
+
+x = "Hello"	#bytes	
+print(x)
+print(type(x))
+
+x = bytearray(5)	#bytearray
+print(x)
+print(type(x))
+
+x = memoryview(bytes(5))	#memoryview	
+print(x) 
+print(type(x))
+
+x = None	#NoneType
+print(x)
+print(type(x))
