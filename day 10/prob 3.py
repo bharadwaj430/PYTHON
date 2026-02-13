@@ -21,3 +21,15 @@ print(type(b))
 
 c =5+3j
 print(type(c))
+
+#output :
+"""
+10
+<class 'int'>
+3.14
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+<class 'str'>
+<class 'complex'>
+"""
