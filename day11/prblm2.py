@@ -13,3 +13,11 @@ def func():
 
 func()
 print("Outside:", x)
+
+
+"""
+Output:
+hey! How are you doing?
+Inside: 5
+Outside: 10
+"""
