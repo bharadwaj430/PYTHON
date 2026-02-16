@@ -12,3 +12,10 @@ def mul(a,b):
 add(5, 3)
 sub(10, 4)
 mul(6, 7)
+
+"""
+#OUTPUT:
+Addition : 8
+Subtraction : 6
+Multiplication : 42
+"""
