@@ -13,3 +13,10 @@ print(m[-1])
 #printing 3rd character
 print(m[2])
 
+"""
+output : 
+14
+C
+i
+n
+"""
