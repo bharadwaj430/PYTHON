@@ -1,10 +1,4 @@
-"""
-Add two complex numbers 2 + 3j and 4 + 5j. Print the result.
-Subtract 1 + 2j from 5 + 8j.
-Multiply 3 + 2j and 1 + 4j. Print the result and verify manually using the formula (ac - bd) + (ad + bc)j.
-Divide 10 + 5j by 2 + 1j. Print the result.
-What happens when you try to use // (floor division) on complex numbers? Try (4 + 2j) // (1 + 1j) and note the error.
-"""
+
 
 # 1. Add two complex numbers  Print the result.
 z1 = 2 + 3j
