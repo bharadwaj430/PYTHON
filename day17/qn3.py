@@ -1,5 +1,3 @@
-
-
 # 1. Add two complex numbers  Print the result.
 z1 = 2 + 3j
 z2 = 4 + 5j
@@ -37,6 +35,15 @@ z10 = 1 + 1j
 result_floor_division = z9 // z10
 print("Floor division result:", result_floor_division)
 # This will raise a TypeError because floor division is not supported for complex numbers.
+"""
+
+"""
+OUTPUT
+Addition result: (6+8j)
+Subtraction result: (4+6j)
+Multiplication result: (-5+14j)
+Division result: (5+0j)
+
 """
 
 
