@@ -1,0 +1,37 @@
+#python casting - specify a variable type
+#integers
+a = int(1)   
+b = int(2.8) 
+c = int("3") 
+print("the value of a, b , c are :"  , a,b,c ,  "respectively")
+
+#floats
+x = float(1)     
+y = float(2.8)   
+z = float("3")   
+v = float("4.2")
+print("the value of x is:" ,  x )
+print("the value of y is:", y)
+print("the value of z is:" , z)
+print("the value of v is:" ,v )
+
+#Strings
+l = str("s1") 
+m = str(2)    
+s = str(3.0)
+print("the value of l is:" ,l)
+print("the value of m  is:" , m)
+print("the value of s is:" , s)
+
+
+"""
+OUTPUT: 
+the value of a, b , c are : 1 2 3 respectively #INTEGERS
+the value of x is: 1.0  #FLOATS
+the value of y is: 2.8
+the value of z is: 3.0
+the value of v is: 4.2
+the value of l is: s1   #STRINGS
+the value of m  is: 2
+the value of s is: 3.0
+"""
