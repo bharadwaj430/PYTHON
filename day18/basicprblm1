@@ -1,0 +1,24 @@
+#random numbers
+#any number from 1 to x is printed and picked up  randomly 
+#to display the output
+
+#example1
+import random
+
+print(random.randrange(1, 50))
+
+#example2
+import random
+print(random.randrange(125,932))
+
+"""
+output :
+ 
+23 #1st execution
+781
+
+10 #2nd execution
+590 
+the number may vary is the output is not fixed each time we execute
+the command itself says to print a random number
+"""
