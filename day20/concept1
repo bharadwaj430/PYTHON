@@ -1,0 +1,30 @@
+#using double quotes or single quotes to create a string
+print("Hello")
+print('Hello')
+
+#using quotes inside a string
+print("It's alright")
+print("He is called 'Johnny'")
+print('He is called "Johnny"')
+
+
+#assigning a string to a variable
+a = "developer"
+print(a)
+
+#multiline string
+b = """This is a python code , executing in vs code editor , 
+we have used python version 3.10.6 and we are learning python from day 1 from scratch"""
+print(b)
+
+#Square brackets  to access elements of the string.
+print(b[0])  # prints the first character of the string b
+print(a[1])  # prints the second character of the string a
+
+#looping through a string
+for x in "banana":
+  print(x)
+
+#string length
+a = "r!"
+print(len(a))
