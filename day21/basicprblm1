@@ -1,0 +1,13 @@
+# Check if the word is present in the given text.
+txt = "productivity helps in evolution of human brain!"
+print("evolution" in txt)
+
+#using if condition to check if the word is present in the given text.
+txt = "productivity helps in evolution of human brain!"
+if "evolution" in txt:
+	print("Yes, 'evolution' is present.")
+
+#checking phrase if not present in the given string
+txt = "productivity helps in  of human brain!"
+if "evolution" not in txt:
+ print("No, 'evolution' is not present.")
