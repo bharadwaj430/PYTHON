@@ -1,0 +1,18 @@
+#quotes inside quotes
+print("It's alright")
+print("He is called 'mike'")
+print('He is called "mike"')
+
+#assigning a string to a variable
+greeting = "Hello"
+print(greeting) 
+name = "Alice"
+message = greeting + ", " + name + "!"
+print(message)
+
+#strings are arrays
+word = "Python"
+print(word[0]) 
+print(word[1])
+print(word[2])
+
