@@ -1,9 +1,6 @@
 # print a string "Hi I'm Bharadwaj gupta studying Btech IT with 65%"
 #fun(name="Bharadwaj",course="Btech", branch="IT", perc=65%)
 
-#find the prime numbers for the given range---100
-#functions--define,parameter, return,print,
-# *args-if we don't know how many no.of parameters will be pass by the user
 def fun(fname,lname):
     print("Hi Im"+" "+fname+" "+lname)
 fun(fname='bharadwaj',lname='gupta')
@@ -21,4 +18,6 @@ print(fun("a","b","c","d"))
 def fun1(**names):
     return "Hi my name is"+" "+names["lname"]
 print(fun1(fname="bharat",lname="kumar"))
+
+
     
