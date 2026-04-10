@@ -47,3 +47,17 @@ n = num()
 print(next(n))
 print(next(n))
 print(next(n))
+
+
+
+#output :
+"""
+1
+2
+None 
+[1, 2, 3]    
+<generator object num at 0x000001401B375C00>  
+1 
+2
+3
+"""
