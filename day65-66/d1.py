@@ -6,12 +6,11 @@ def decorator_name(func):
         print("After execution")
         return result
     return wrapper
-""""
+
 #decorator name
 def add(a,b):
     return a+b
 print("The result is : ", add(23,9))
-"""
 
 
 
