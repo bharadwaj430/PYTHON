@@ -1,0 +1,10 @@
+# Empty list
+a = []
+
+# list with int values
+a = [2, 4 ,23]
+print(a)
+
+# list with mixed values int and String
+b = ["bharadwaj","is", "doing python", "module", 5]
+print(b)
