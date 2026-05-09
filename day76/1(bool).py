@@ -16,3 +16,9 @@ if 1:
 
 if not 0:
     print("0 is falsy")
+
+#output
+"""
+1 is truthy
+0 is falsy
+"""
