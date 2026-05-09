@@ -19,4 +19,12 @@ print("length of given list :" , len(list))
 tuple1 = ("tomato" ,"ashgourd" , 'brinjal')
 print("length of given tuple is : " , len(tuple1))
 
+#output : 
+"""
+length of given string is : 6
+length of given list : 7
+length of given tuple is :  3
+"""
+
+
 
