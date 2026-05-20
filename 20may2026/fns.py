@@ -3,7 +3,7 @@
 #  Python is no exception
 #Another helpful built-in function is" input()"
 
-name = input('What is your name?')  #user POV : "Bharadwaj" and enter
+name = input('What is your name?')  #user POV : "Bharadwaj" and enter press
 
 """
 int() converts number,boolean and numeric string into a integer
