@@ -9,16 +9,16 @@
 name1 = "bharadwaj"
 name2 ='bharadwaj'
 name3 = ''' bharadwaj'''
-print(name1)
-print(name2)
-print(name3)
+print(name1) #bharadwaj
+print(name2)  #bharadwaj
+print(name3)  #bharadwaj
 
 age = 23
 old = False   #bool type should be capital
 a = None
-print(type(age))
-print(type(old))
-print(type(a))
+print(type(age)) #<class 'int'>
+print(type(old)) #<class 'bool'> 
+print(type(a)) #<class 'NoneType'>
 
 
 
