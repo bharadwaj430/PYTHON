@@ -20,6 +20,3 @@ print("OR operator condition 2:", (a == b) or value2)  #False
 print("OR operator condition 3:", (a == b) or (a > b )) #True
 print("NOT operator:" ,  not value2 ) #True
 
-
-  
-
