@@ -15,14 +15,13 @@ tuple1 = (1) #tuple considered as  integer
 tuple2 = ("visual studio code") #tuple considered as  string
 tuple3 = (5.5) #tuple considered as  float value
 
-print(tuple1)
-print(type(tuple))
+print(tuple1) #1
+print(type(tuple1))  #<class 'int'>
 
-print(tuple2)
-print(type(tuple2))
-
-print(tuple3)
-print(tuple)
+print(tuple2) #<class 'str'>
+print(type(tuple2)) #<class 'str'>
+print(tuple3)#5.5
+print(type(tuple3))  #<class 'float'>
 
 
 
