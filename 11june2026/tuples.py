@@ -25,9 +25,6 @@ print(tuple3)
 print(tuple)
 
 
-#to want to consider/ percieve  as a tuple (we should add a comma , )
-#Adding a comma at the last is optional. 
-
 
 
 
