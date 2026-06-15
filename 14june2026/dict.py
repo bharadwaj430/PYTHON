@@ -32,13 +32,4 @@ output:
 'age': 35, 'is_adult': True, 
 'marks': 94.4
 }
-
-
-
-
-
-
-
-
-
 """
