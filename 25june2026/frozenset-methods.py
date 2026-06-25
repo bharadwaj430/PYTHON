@@ -32,11 +32,11 @@ print(b.isdisjoint(c)) #False
 
 #method 5 ----issubset()---(>=/>)----	Returns True if this frozenset is a (proper) superset of another
 
-print(b.issuperset(m)) #False
-print(b>=m) #False
-print(b>m) #False
+print(b.issubset(m)) #False
+print(b<=m) #False
+print(b<m) #False
 
-print(b.issuperset(c)) #True
+print(b.issubset(c)) #False
 
 
 
